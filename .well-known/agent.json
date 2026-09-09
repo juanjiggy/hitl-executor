@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Human Execution Layer - Juan",
+  "description": "Executive physical and digital micro-task execution under explicit human safety veto authority.",
+  "url": "https://juanjiggy.github.io/hitl-executor/",
+  "pricing": {
+    "model": "annual_retainer",
+    "base_rate_usd": 100000
+  },
+  "capabilities": [
+    {
+      "id": "physical_verification",
+      "risk_protocol": "strict_human_veto"
+    }
+  ]
+}
